@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mihakeras
+- 👀 I’m interested in programming and creating amazing things (for example games of my dreams!)
+- 🌱 I’m currently learning C# and I'm going to continue learning C++ as well!
+- 💞️ I’m looking to collaborate on fantastic code, which's making our life better!
+- 📫 How to reach me via Telegram: @Mihaker.
+- be happy if somebody finds himself/herself be looking for working with amazing people by creating brilliantly galant and short code that's doing this world a heaven :)
